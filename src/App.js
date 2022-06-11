@@ -13,6 +13,7 @@ import React, {useEffect, useState} from "react";
       );
     console.log("Latitude is:", lat)
     console.log("Longitude is", long)
+    console.log("Longitude is", long)
   }, [lat, long]);
 
 function App() {
